@@ -1,0 +1,57 @@
+{
+  "title": "Blue Ridge Bank Help",
+  "description": "Blue Ridge Bank Help",
+  "palette": "green",
+  "palettes": {
+    "blue": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#00c6ff",
+        "accent2": "#0072ff"
+      }
+    },
+    "green": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#12db5d",
+        "accent2": "#11998e"
+      }
+    },
+    "navy": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#004e92",
+        "accent2": "#000428"
+      }
+    },
+    "violet": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#8e2de2",
+        "accent2": "#4a00e0"
+      }
+    }
+  },
+  "header": {
+    "type": "header",
+    "title": "Blue Ridge Bank Help",
+    "logo_img": "/images/peach-logo.png",
+    "has_nav": true,
+    "nav_links": []
+  },
+  "footer": {
+    "type": "footer",
+    "content": "&copy; Blue Ridge Bank 490 43rd Street, Suite #10 Oakland, CA 94609",
+    "links": [
+      {
+        "type": "action",
+        "label": "Powered by Peach",
+        "url": "https://www.peachfinance.com",
+        "style": "link",
+        "new_window": true
+      }
+    ],
+    "has_social": false,
+    "social_links": []
+  }
+}

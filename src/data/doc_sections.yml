@@ -1,0 +1,6 @@
+root_docs_path: /
+sections:
+  - account
+  - payments
+  - refunds
+  - contact-us
